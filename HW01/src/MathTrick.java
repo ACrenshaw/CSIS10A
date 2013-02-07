@@ -29,7 +29,7 @@ public class MathTrick {
 	  y = y + 17;
 	  
 	// Print the result
-      System.out.println("here is the final result, which should be 3:');
+      System.out.println("here is the final result, which should be 3:");
       System.out.println(y); //This prints the current value of y
    }
 }
