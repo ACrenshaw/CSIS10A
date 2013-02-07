@@ -13,5 +13,23 @@ public class MathTrick {
 		//Subtract the orginal number
 		//Divide by 6
 		//Print the result
-	}
+	
+	//Get a positive integer
+	   int x;
+	   x = 7;
+	//Square it
+	   int y;
+	   y= x * x;
+	//Add the origonal number (to y)
+	   y = y + x;
+	//Devide by the origonal numbe
+	  y = y / x;
+	  
+	//Add 17
+	  y = y + 17;
+	  
+	// Print the result
+      System.out.println("here is the final result, which should be 3:');
+      System.out.println(y); //This prints the current value of y
+   }
 }
